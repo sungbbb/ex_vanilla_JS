@@ -1,1 +1,1 @@
-# ex_vanilla_JS
+# 바닐라 js로 크롬앱 생성
